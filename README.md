@@ -18,6 +18,9 @@ Through signal processing and statistical analysis, we investigate how neural ac
 - Distribution differences  
 - Functional connectivity between brain regions  
 
+#### View the Presentation Slides Here:
+https://docs.google.com/presentation/d/1BozdjEBzd4ht4l-LWN8Hg_SRfki26ctj5aRMp5rJlAI/edit?usp=sharing
+
 ---
 
 ## 🎯 Objectives
